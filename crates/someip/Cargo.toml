@@ -1,0 +1,7 @@
+[package]
+name = "someip"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+someip_parse.workspace = true
